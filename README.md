@@ -43,7 +43,7 @@ I value clear domain design, readable code, and smooth collaboration.
 - Led the project as a team leader
 
 👉 **Backend Repository**  
-[https://github.com/suyeonTech/babchingu-backend  ](https://github.com/suyeonTech/kbs_be_v2/tree/develop)
+[backend repository](https://github.com/suyeonTech/kbs_be_v2/tree/develop)
 
 ---
 
