@@ -1,60 +1,75 @@
-# Hi, I’m Suyeon 👋
+# 👋 Hi, I'm Suyeon Won
 
-Backend-focused developer building structured APIs with Spring Boot.  
-I value clear domain design, readable code, and smooth collaboration.
+> I believe great products begin with a deep understanding of problems.
 
----
+I'm a Computer Science graduate and a Tech-friendly Product Manager who enjoys turning ambiguous problems into sustainable systems.
 
-## 👩‍💻 About Me
-- Backend-focused developer working with **Spring Boot & JPA**
-- Experienced in **API design based on domain responsibility**
-- Led team projects as a **team leader**, managing collaboration and schedules
-- Comfortable working across **backend, frontend, and system design**
+Through software development, organizational leadership, and product planning experiences, I've learned how to identify users' real pain points and design meaningful solutions.
+
+Currently, I'm interested in:
+- 🚀 Product Management & User Experience
+- 🤖 AI-powered Products
+- 🌱 Building sustainable systems through technology
+- ⚙️ Backend Engineering
 
 ---
 
 ## 🛠 Tech Stack
-**Backend**
+
+### Backend
 - Java
 - Spring Boot
-- Spring Data JPA
+- JPA / Hibernate
+- MySQL & PostgreSQL
+- Redis
 
-**Frontend**
+### Infrastructure
+- AWS
+- Docker
+- Terraform
+
+### Frontend
 - React
-- JavaScript
+- TypeScript
 
-**Database**
-- RDB (schema design based on requirements)
-
-**Collaboration**
-- Git / GitHub
-- Git-flow
+### Tools
+- Git & GitHub
 - Figma
+- Notion
+- Slack / Discord
 
 ---
 
-## 📌 Featured Project
-### 🍚 BabChingu (밥친구)
-> A platform to connect nearby meal mates through a post-based system.
+## 🌟 Featured Projects
 
-- Designed database schema and domain structure
-- Implemented REST APIs using Spring Boot
-- Wrote API specifications for frontend-backend collaboration
-- Led the project as a team leader
+### 🤖 Flodi - AI Meeting Assistant
+AI assistant that preserves organizational memory by understanding meeting context and retrieving past decisions.
 
-👉 **Backend Repository**  
-[backend repository](https://github.com/suyeonTech/kbs_be_v2/tree/develop)
+**Key Focus**
+- Identified "loss of organizational knowledge" as the real problem
+- Designed AI interaction flow based on contextual information
+- Built a system that turns meeting records into reusable knowledge
 
----
-
-## 🧠 What I Care About
-- Writing **maintainable and structured code**
-- Clear responsibility separation between layers
-- Communication that improves team productivity
-- Understanding *why* before implementing *how*
+🔗 [View Repository](YOUR_LINK)
 
 ---
 
-## 📫 Contact
+### 🧠 Bracket Code - Algorithm Battle & Learning Platform
+A platform designed to make algorithm learning more sustainable through competition and spaced repetition.
+
+**Key Focus**
+- Defined user problems: lack of motivation and difficulty in review
+- Designed MVP by prioritizing user value over implementation complexity
+- Combined real-time battles with an Ebbinghaus-based review system
+
+🔗 [View Repository](YOUR_LINK)
+
+---
+
+## 📫 Connect with Me
+
+- Portfolio: YOUR_NOTION_LINK
+- Blog: YOUR_BLOG_LINK
 - Email: isuinvade@gmail.com
-- GitHub: https://github.com/suyeonTech
+
+Thanks for visiting my GitHub! ✨
